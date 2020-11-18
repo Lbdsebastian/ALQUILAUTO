@@ -1,0 +1,21 @@
+.sig{
+    float: right;
+}
+.ant{
+    float: left;
+}
+
+.ini{
+    float: right;
+    margin-right: 50%;
+}
+.Row {
+    text-align: center;
+    display: table;
+    width: 100%; 
+    table-layout: fixed; 
+    border-spacing: 15px; 
+}
+.Column {
+    display: table-cell;  
+}
